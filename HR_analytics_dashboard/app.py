@@ -10,7 +10,7 @@ sns.set_style("whitegrid")
 # ---------------- LOAD DATA ----------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("hr_cleaned.csv")
+    return pd.read_csv("../hr_cleaned.csv")
 
 df = load_data()
 
