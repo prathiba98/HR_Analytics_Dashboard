@@ -1,5 +1,5 @@
 # HR Analytics Dashboard
-## Dashboard link - https://hranalyticsdashboard-5h4cr5n8f9ncq2dyjs5dxp.streamlit.app/
+## Live app link - https://hranalyticsdashboard-5h4cr5n8f9ncq2dyjs5dxp.streamlit.app/
 ## Overview
 This project is an interactive HR analytics dashboard built using Streamlit.
 It analyzes employee attrition patterns to help HR teams understand why
