@@ -10,7 +10,7 @@ sns.set_style("whitegrid")
 # ---------------- LOAD DATA ----------------
  
 
-df = pd.read_csv("HR_analytics_dashboard/data/hr_cleaned.csv")
+df = pd.read_csv("hr_cleaned.csv")
 
 # ---------------- TITLE ----------------
 st.title(" HR Analytics – Employee Attrition Dashboard")
